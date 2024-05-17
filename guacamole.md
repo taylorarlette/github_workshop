@@ -5,7 +5,6 @@ Ingredients:
 
 Instructions:
 - cut and mash avocados
-- chop onion
 - squeeze lime
 - add salt
 - and mix well
